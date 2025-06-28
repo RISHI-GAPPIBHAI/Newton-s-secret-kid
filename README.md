@@ -1,0 +1,3 @@
+SOO,this program ensures to abide to newton's laws while keeping its sass
+The program would give you the total acceleration of the system,tension on every single rope,elongation caused on any rope you select,the energy per unit volume stored in any specificed rope you want,and a gist of its own personality!! 
+With the help of this program you can simulate the movement of several blocks,while getting the freedom to decide the number of blocks,force individually applied ropes,the area of cross section of ropes,the original length of ropes and even the Young's Modulus of elasticity for every wire and you can even input the breaking stress of wires and know if they can withstand the stress
